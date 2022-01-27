@@ -50,4 +50,4 @@ class Parcel {
   }
 }
 
-export { Truck, Parcel, parcel };
+export { Truck, Parcel };
