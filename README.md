@@ -15,7 +15,11 @@ cd parcel-service
 npm i -g typescript ts-node
 
 # Run the script
-nodemon index.ts
+ts-node index.ts
+
+# Run the script with nodemon
+ nodemon index.ts
+
 ```
 
 ## Files
